@@ -2,10 +2,10 @@ package com.nt.user.dto;
 
 public class UserPayments {
 	
-	public String naming(int a)
+	public String naming(int C)
 	{
-		a=10;
-		return " rajkumar"+a;
+		C=10;
+		return " rajkumar"+C;
 	}
 
 }
