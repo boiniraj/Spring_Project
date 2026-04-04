@@ -19,12 +19,7 @@ public class UserController {
 		
 		
 		String a=user.toString();
-		
-		
-		
-		
-		
-		
+				
 		return a;
 	}
 
