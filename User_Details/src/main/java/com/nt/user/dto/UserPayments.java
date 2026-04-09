@@ -13,5 +13,10 @@ public class UserPayments {
     	int c=a+b;
     	return c;
     }
+    
+    public String some()
+    {
+    	return null;
+    }
 }
 
