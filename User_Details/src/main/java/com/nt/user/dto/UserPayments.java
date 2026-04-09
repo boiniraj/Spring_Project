@@ -14,9 +14,6 @@ public class UserPayments {
     	return c;
     }
     
-    public String some()
-    {
-    	return null;
-    }
+  
 }
 
