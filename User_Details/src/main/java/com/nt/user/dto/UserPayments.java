@@ -17,7 +17,7 @@ public class UserPayments {
     public String atm(int pin)
     {
     	pin=123;
-    	return pin+"PIN SUCCUSFULLY CREATED";
+    	return pin+"PIN SUCCUSFULLY CREATED ok";
     }
 }
 
