@@ -7,11 +7,17 @@ public class UserPayments {
 		C=10;
 		return " rajkumar"+C;
 	}
+	
     public int add(int a,int b)
     {
     	a=10;b=10;
     	int c=a+b;
     	return c;
+    }
+    public String atm(int pin)
+    {
+    	pin=123;
+    	return pin+"PIN SUCCUSFULLY CREATED";
     }
 }
 
